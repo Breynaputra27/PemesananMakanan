@@ -17,7 +17,7 @@ Aplikasi ini mensimulasikan alur pemesanan makanan, mulai dari *login/register*,
 
 ---
 
-##Screenshot
+## Screenshot
 
 <img width="370" height="903" alt="image" src="https://github.com/user-attachments/assets/c374466c-9d4b-4d55-a1ca-514f32d84aff" />
 
